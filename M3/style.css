@@ -45,6 +45,7 @@ body {
 
 .navbar-custom div ul li a {
 	text-align: center;
+	font-size: 18px;
 }
 
 .navbar-custom .navbar-brand, 
